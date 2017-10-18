@@ -1,0 +1,36 @@
+C:\Users\User\Documents\Magshimim\C2\lesson3\BUSMAN\BUSMAN\bin\Debug\BUSMAN.exe.config
+C:\Users\User\Documents\Magshimim\C2\lesson3\BUSMAN\BUSMAN\bin\Debug\BUSMAN.exe
+C:\Users\User\Documents\Magshimim\C2\lesson3\BUSMAN\BUSMAN\bin\Debug\BUSMAN.pdb
+C:\Users\User\Documents\Magshimim\C2\lesson3\BUSMAN\BUSMAN\obj\Debug\BUSMAN.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Magshimim\C2\lesson3\BUSMAN\BUSMAN\obj\Debug\BUSMAN.Form1.resources
+C:\Users\User\Documents\Magshimim\C2\lesson3\BUSMAN\BUSMAN\obj\Debug\BUSMAN.Properties.Resources.resources
+C:\Users\User\Documents\Magshimim\C2\lesson3\BUSMAN\BUSMAN\obj\Debug\BUSMAN.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Magshimim\C2\lesson3\BUSMAN\BUSMAN\obj\Debug\BUSMAN.exe
+C:\Users\User\Documents\Magshimim\C2\lesson3\BUSMAN\BUSMAN\obj\Debug\BUSMAN.pdb
+C:\Users\User\Documents\Magshimim\C2\lesson3\BUSMAN\BUSMAN\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\bin\Debug\BUSMAN.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\obj\Debug\BUSMAN.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\obj\Debug\BUSMAN.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\obj\Debug\BUSMAN.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\obj\Debug\BUSMAN.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\obj\Debug\BUSMAN.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\obj\Debug\BUSMAN.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\bin\Debug\BUSMAN.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\bin\Debug\BUSMAN.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN\BUSMAN\obj\Debug\BUSMAN.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\bin\Debug\BUSMAN.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\obj\Debug\BUSMAN.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\obj\Debug\BUSMAN.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\obj\Debug\BUSMAN.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\bin\Debug\BUSMAN.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\bin\Debug\BUSMAN.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\obj\Debug\BUSMAN.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\obj\Debug\BUSMAN.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\obj\Debug\BUSMAN.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BUSMAN_F\BUSMAN\obj\Debug\BUSMAN.csproj.GenerateResource.Cache
